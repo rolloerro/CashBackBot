@@ -1,0 +1,18 @@
+{
+  "food": [
+    {
+      "title": "🍔 Burger King",
+      "text": "Скидка -20% на комбо",
+      "code": "BK20",
+      "link": "https://example.com"
+    }
+  ],
+  "market": [
+    {
+      "title": "🛒 Ozon",
+      "text": "-15% на электронику",
+      "code": "OZON15",
+      "link": "https://example.com"
+    }
+  ]
+}
